@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #baseurl: "/film-project-website" # the subpath of your site, e.g. /blog
 url: "https://rosemaries-sportschau.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: rosemaries_sportschau
-google_site_verification: wMmTRSnDes1qIsQ3vYivr04ut1WM5LzxI4bi9_CYl-8
+google_site_verification: ux8N1Fng6egTjMaLKA4oN73hNh8L_wGbdkteyD574Rk
 
 # Build settings
 theme: minima
