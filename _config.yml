@@ -22,7 +22,7 @@ title: Rosemaries Sportschau
 email: silas.h@gmx.de
 description: >- # this means to ignore newlines until "baseurl:"
   Filmprojekt dreier Göttinger Studenten.
-baseurl: "/film-project-website" # the subpath of your site, e.g. /blog
+#baseurl: "/film-project-website" # the subpath of your site, e.g. /blog
 url: "https://rosemaries-sportschau.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: rosemaries_sportschau
 
