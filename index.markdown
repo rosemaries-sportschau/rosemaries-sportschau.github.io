@@ -35,6 +35,8 @@ Wenn Interesse besteht beim nächsten Dreh mitzuhelfen, als Darsteller*in aufzut
 - Kurzfilm: 6 Minuten
 - Screening: Europäisches Filmfestival Göttingen 2024
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=489YoDEhTKM" frameborder="0" allowfullscreen></iframe>
-TODO - ich glaube das Video kann hier nur gezeigt werden wenn es als gelistet auftritt, bei anderen Videos hat der iframe nämlich funktioniert.
+
+<a href="https://www.youtube.com/watch?v=489YoDEhTKM">
+    <img src="./assets/goldene-gans-set-photo-graded.jpg" alt="goldene-gans-set-photo-graded" style="border-radius: 5%; object-fit: cover;"/>
+</a>
 
