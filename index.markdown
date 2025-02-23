@@ -31,6 +31,17 @@ Wenn Interesse besteht beim nächsten Dreh mitzuhelfen, als Darsteller*in aufzut
 
 ## Projekte
 
+
+### Showreel Record Media
+Peer und Christian hatten vor diesem Projekt eine gemeinsame Videoproduktionsfirma. Hier ein kurzes Showreel.
+
+<a href="https://www.youtube.com/watch?v=dcFOtjQ3v8s">
+    <img src="./assets/showreel.jpg" alt="showreel record media" style="border-radius: 5%; object-fit: cover;"/>
+</a>
+
+
+
+
 ### Die goldene Gans
 - Kurzfilm: 6 Minuten
 - Screening: Europäisches Filmfestival Göttingen 2024
