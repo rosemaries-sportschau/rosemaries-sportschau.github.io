@@ -13,13 +13,13 @@ Wenn Interesse besteht beim nächsten Dreh mitzuhelfen, als Darsteller*in aufzut
 
 ### Christian
 
-<img src="https://placehold.co/250" alt="drawing" width="250"/>
+<img src="./assets/christian_headshot.JPG" alt="drawing" width="250"/>
 - Regie
 - Cutter
 
 ### Peer
 
-<img src="https://placehold.co/250" alt="drawing" width="250"/>
+<img src="./assets/peer_headshot.JPG" alt="drawing" width="250"/>
 - VFX
 - Ton
 
