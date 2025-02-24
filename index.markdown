@@ -6,7 +6,7 @@ layout: home
 ---
 
 Wir sind Peer, Christian und Silas, drei Studenten aus Göttingen, und drehen gerne Filme. 
-Wir freuen über jegliche Art von Kontakt zu anderen filminteressierten Leuten.
+Wir freuen uns über jegliche Art von Kontakt zu anderen filminteressierten Leuten.
 Wenn Interesse besteht beim nächsten Dreh mitzuhelfen, als Darsteller*in aufzutreten oder uns beim Schreiben eines Drehbuchs zu unterstützen, freuen wir uns über eine Nachricht an diese Email [silas.h@gmx.de](mailto:silas.h@gmx.de) oder an unser Instagram-Profil [rosemaries_sportschau](https://www.instagram.com/rosemaries_sportschau/).
 
 ## Team
