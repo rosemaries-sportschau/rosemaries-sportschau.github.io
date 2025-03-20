@@ -13,18 +13,18 @@ Wenn Interesse besteht beim nächsten Dreh mitzuhelfen, als Darsteller*in aufzut
 
 ### Christian
 
-<img src="./assets/christian_headshot.JPG" alt="drawing" width="250"/>
+<img src="./assets/headshot_hill_christian.jpg" alt="drawing" width="250"/>
 - Regie
 - Cutter
 
 ### Peer
 
-<img src="./assets/peer_headshot.JPG" alt="drawing" width="250"/>
+<img src="./assets/headshot_hill_peer.jpg" alt="drawing" width="250"/>
 - VFX
 - Ton
 
 ### Silas
-<img src="./assets/sh_bewerbungsfoto_small.jpg" alt="drawing" width="250"/>
+<img src="./assets/headshot_hill_silas.jpg" alt="drawing" width="250"/>
 - Drehbuch
 - Generelle Organisation der Projekte
 
