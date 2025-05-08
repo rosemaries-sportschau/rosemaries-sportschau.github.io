@@ -48,6 +48,6 @@ Peer und Christian hatten vor diesem Projekt eine gemeinsame Videoproduktionsfir
 
 
 <a href="https://www.youtube.com/watch?v=489YoDEhTKM">
-    <img src="./assets/goldene-gans-set-photo-graded_with-laurel.jpg" alt="goldene-gans-set-photo-graded" style="border-radius: 5%; object-fit: cover;"/>
+    <img src="./assets/goldene-gans-set-photo-graded_with_laurel.jpg" alt="goldene-gans-set-photo-graded" style="border-radius: 5%; object-fit: cover;"/>
 </a>
 
